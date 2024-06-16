@@ -1,0 +1,1 @@
+# Plant-Disease-Detection-on-Rice-leaf-Image
